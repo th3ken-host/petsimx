@@ -1,2 +1,2 @@
-_G.Key = "nukeisobese"
+_G.Key = "nukeplaysbrawlstars"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/ALLHACKLOADER/main/NukeHub",true))()
